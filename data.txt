@@ -1,0 +1,1 @@
+{"money": 100, "wave": 0, "house_hp": 100, "wave_enemies": 1, "boss_health_max": 50, "health_max": 100, "counter": 1, "shield_hp": 10, "shield_hp_max": 10}
