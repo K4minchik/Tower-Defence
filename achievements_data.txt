@@ -1,1 +1,1 @@
-{"achievement1": true, "achievement_counter": 971, "achievements_animate": false, "achievement2": true, "achievement2_counter": 204, "achievement3": true, "achievement4": false, "achievement5": false}
+{"achievement1": false, "achievement_counter": 0, "achievements_animate": false, "achievement2": false, "achievement2_counter": 0, "achievement3": false, "achievement4": false, "achievement5": false}
