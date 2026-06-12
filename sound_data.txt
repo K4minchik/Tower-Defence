@@ -1,1 +1,1 @@
-{"volume1": 0.25, "sound_switch": true, "mob_switch": true, "language": "eng", "texture_mode": "normal"}
+{"volume1": 1, "sound_switch": true, "mob_switch": true, "language": "eng", "texture_mode": "normal"}

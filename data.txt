@@ -1,1 +1,1 @@
-{"money": 181, "wave": 1, "house_hp": 100, "wave_enemies": 2, "boss_health_max": 75, "health_max": 100, "counter": 1, "shield_hp": 9, "shield_hp_max": 10}
+{"money": 100, "wave": 0, "house_hp": 100, "wave_enemies": 1, "boss_health_max": 50, "health_max": 100, "counter": 1, "shield_hp": 10, "shield_hp_max": 10}
