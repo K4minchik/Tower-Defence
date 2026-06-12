@@ -1,0 +1,1 @@
+{"house_level": 1, "house_count": 750, "turret_left_level": 0, "turret_left_count": 100, "couldown_turret_left": 100, "turret_right_level": 0, "turret_right_count": 100, "couldown_turret_right": 100, "cursor_level": 1, "cursor_count": 500, "shield_level": 1, "shield_count": 100}
